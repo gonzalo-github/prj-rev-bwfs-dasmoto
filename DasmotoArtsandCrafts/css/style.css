@@ -1,0 +1,13 @@
+h1 {font-family: Helvetica; font-size: 100px;
+  font-weight: bold; color: khaki; text-align: center;
+background-image: url("C:/projects/DasmotoArtsandCrafts/resources/pattern.jpg");}
+
+.types {font-family: Helvetica; font-size: 32px; font-weight: bold; color: white;
+background-color: mediumspringgreen;}
+.brushes {background-color: mediumspringgreen;}
+
+span {font-family: Helvetica; font-weight: bold; color: blue}
+
+.frames {background-color: Lightcoral;}
+
+.paint {background-color: skyblue;}
